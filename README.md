@@ -1,1 +1,1 @@
-# checkers--but-prettier-with-AI-
+# Checkers-AI
